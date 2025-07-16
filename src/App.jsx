@@ -1,7 +1,7 @@
 
 
 import Navbar from './Navbar'
-import Block1 from './block1'
+import Block1 from './Block1'
 import Block from './Block'
 import Footer from './Footer'
 function App() {
